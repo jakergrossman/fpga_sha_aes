@@ -1,0 +1,2 @@
+* c_reference
+Reference C implementations of SHA-2 algorithms (sha224, sha256, sha384, sha512)
